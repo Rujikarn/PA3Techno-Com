@@ -1,0 +1,22 @@
+body{
+  color: #Black;
+  text-align: center;
+  background-color:#B3E1FA;
+}
+.top-cloud{
+ left: 40%;
+ position: relative;
+}
+.bottom-cloud{
+  left: 65px;
+  position: absolute;
+}
+.mountain{
+  width: 320px;
+}
+h1{
+  font-size: 40px;
+}
+p{
+  font-size:22px;
+}
